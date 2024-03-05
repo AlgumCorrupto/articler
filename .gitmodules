@@ -3,4 +3,4 @@
 	url = https://github.com/AlgumCorrupto/artback
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/AlgumCorrupto/artfron
+	url = https://github.com/AlgumCorrupto/artfront
